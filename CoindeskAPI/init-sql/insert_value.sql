@@ -1,0 +1,2 @@
+USE CoindeskDB;
+INSERT INTO Currencies (Code, Name, Language) VALUES ('EUR', 'Euro', 'en-US'), ('GBP', 'British Pound Sterling', 'en-US'), ('USD', 'United States Dollar', 'en-US'), ('EUR', '歐元', 'zh-TW'), ('GBP', '英鎊', 'zh-TW'), ('USD', '美金', 'zh-TW')

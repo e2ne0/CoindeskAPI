@@ -1,0 +1,6 @@
+@CoindeskAPI_HostAddress = http://localhost:5272
+
+GET {{CoindeskAPI_HostAddress}}/api/Currency/coindesk
+Accept: application/json
+
+###
