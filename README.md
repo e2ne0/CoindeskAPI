@@ -1,4 +1,5 @@
 # Run this repo
+料庫使用docker建立 sql server 2022 會於下方流程自動完成
 ```
 $ cd CoindeskAPI
 $ docker-compose up --build
